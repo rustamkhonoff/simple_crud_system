@@ -1,0 +1,33 @@
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\appsettings.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.staticwebassets.runtime.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.exe
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.deps.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.runtimeconfig.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\Simple CRUD System.pdb
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.csproj.AssemblyReference.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.AssemblyInfoInputs.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.AssemblyInfo.cs
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.csproj.CoreCompileInputs.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.RazorAssemblyInfo.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.RazorAssemblyInfo.cs
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\scopedcss\bundle\Simple CRUD System.styles.css
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\scopedcss\projectbundle\Simple CRUD System.bundle.scp.css
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.csproj.CopyComplete
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\refint\Simple CRUD System.dll
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.pdb
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\Simple CRUD System.genruntimeconfig.cache
+D:\Work\NET\WEB\Simple CRUD System\Simple CRUD System\obj\Debug\net6.0\ref\Simple CRUD System.dll

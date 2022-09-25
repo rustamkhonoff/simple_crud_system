@@ -1,0 +1,46 @@
+﻿@page
+@model Simple_CRUD_System.Pages.Users.IndexModel
+@{
+}
+
+<br>
+<h2>List of Users</h2>
+<a class='btn btn-primary btn-sm' href="/Users/Create">Create User</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Phone</th>
+			<th>Address</th>
+			<th>Created Time</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+
+	@if (Model.UsersList.Count > 0)
+	{
+		<tbody>
+			@foreach (var user in Model.UsersList)
+			{
+				<tr>
+					<td>@user.Id</td>
+					<td>@user.Name</td>
+					<td>@user.Email</td>
+					<td>@user.Phone</td>
+					<td>@user.Address</td>
+					<td>@user.CreatedTime</td>
+					<td>
+						<a class="btn btn-primary btn-sm" href="Users/Update?id=@user.Id">Update</a>
+						<a class="btn btn-outline-danger btn-sm" href="Users/Delete?id=@user.Id">Delete</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	}
+	else
+	{
+		<h2>No data found!</h2>
+	}
+</table>
